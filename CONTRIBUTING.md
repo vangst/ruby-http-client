@@ -73,11 +73,7 @@ git clone https://github.com/sendgrid/ruby-http-client.git
 cd ruby-http-client
 ```
 
-##### Execute: #####
-
-See the [examples folder](https://github.com/sendgrid/ruby-http-client/tree/master/examples) to get started quickly.
-
-To try the SendGrid example:
+### Environment Variables
 
 First, get your free SendGrid account [here](https://sendgrid.com/free?source=ruby-http-client).
 
@@ -88,6 +84,10 @@ echo "export SENDGRID_API_KEY='YOUR_API_KEY'" > sendgrid.env
 echo "sendgrid.env" >> .gitignore
 source ./sendgrid.env
 ```
+
+##### Execute: #####
+
+See the [examples folder](https://github.com/sendgrid/ruby-http-client/tree/master/examples) to get started quickly.
 
 To run the example (after updating the emails):
 
