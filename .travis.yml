@@ -9,6 +9,7 @@ rvm:
 before_install:
 - gem install minitest
 - gem install simplecov
+- gem install codecov
 
 notifications:
   hipchat:
