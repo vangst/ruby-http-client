@@ -212,8 +212,7 @@ module SendGrid
     #   - Client object
     #
     def _(name = nil)
-      url_path = name ? @url_path.push(name) : @url_path
-      @url_path = []
+      url_path = name ? @url_path + [name] : @url_path
       Client.new(host: @host, request_headers: @request_headers,
                  version: @version, url_path: url_path,
                  http_options: @http_options)
