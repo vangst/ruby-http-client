@@ -3,6 +3,40 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2020-01-09] Version 3.4.0
+--------------------------
+**Library - Fix**
+- [PR #108](https://github.com/sendgrid/ruby-http-client/pull/108): Avoid mutating @url_path to avoid unexpected side effects. Thanks to [@tachyons](https://github.com/tachyons)!
+- [PR #49](https://github.com/sendgrid/ruby-http-client/pull/49): change year for the license file. Thanks to [@luiscobits](https://github.com/luiscobits)!
+- [PR #48](https://github.com/sendgrid/ruby-http-client/pull/48): update LICENSE - fix year. Thanks to [@pushkyn](https://github.com/pushkyn)!
+
+**Library - Docs**
+- [PR #105](https://github.com/sendgrid/ruby-http-client/pull/105): Add our Developer Experience Engineer career opportunity to the READM…. Thanks to [@mptap](https://github.com/mptap)!
+- [PR #61](https://github.com/sendgrid/ruby-http-client/pull/61): update CONTRIBUTING.md. Thanks to [@thepriefy](https://github.com/thepriefy)!
+- [PR #86](https://github.com/sendgrid/ruby-http-client/pull/86): Add first time contributor documentation. Thanks to [@eyewritecode](https://github.com/eyewritecode)!
+- [PR #91](https://github.com/sendgrid/ruby-http-client/pull/91): update contribution to branch off development. Thanks to [@vikasnautiyal](https://github.com/vikasnautiyal)!
+- [PR #72](https://github.com/sendgrid/ruby-http-client/pull/72): Add USAGE.md. Thanks to [@ProZsolt](https://github.com/ProZsolt)!
+- [PR #73](https://github.com/sendgrid/ruby-http-client/pull/73): Create a Use Cases Directory. Thanks to [@ProZsolt](https://github.com/ProZsolt)!
+- [PR #41](https://github.com/sendgrid/ruby-http-client/pull/41): Create PULL_REQUEST_TEMPLATE.md. Thanks to [@flaredragon](https://github.com/flaredragon)!
+
+**Library - Chore**
+- [PR #80](https://github.com/sendgrid/ruby-http-client/pull/80): Missing Dev Dependencies + rubocop  #79. Thanks to [@kplimack](https://github.com/kplimack)!
+- [PR #66](https://github.com/sendgrid/ruby-http-client/pull/66): delete PULL_REQUEST_TEMPLATE.md. Thanks to [@thepriefy](https://github.com/thepriefy)!
+- [PR #76](https://github.com/sendgrid/ruby-http-client/pull/76): Add Gemfile. Thanks to [@kplimack](https://github.com/kplimack)!
+- [PR #58](https://github.com/sendgrid/ruby-http-client/pull/58): [Closes #55] Add code coverage reporting to CC. Thanks to [@lauratpa](https://github.com/lauratpa)!
+- [PR #57](https://github.com/sendgrid/ruby-http-client/pull/57): [Closes #56] Fix some rubocop issues. Thanks to [@lauratpa](https://github.com/lauratpa)!
+- [PR #50](https://github.com/sendgrid/ruby-http-client/pull/50): Added unittest to check for specific repo files. Thanks to [@mptap](https://github.com/mptap)!
+- [PR #51](https://github.com/sendgrid/ruby-http-client/pull/51): Add License end year test. Thanks to [@diegous](https://github.com/diegous)!
+- [PR #39](https://github.com/sendgrid/ruby-http-client/pull/39): Add a .env_sample file. Thanks to [@thepriefy](https://github.com/thepriefy)!
+- [PR #112](https://github.com/sendgrid/ruby-http-client/pull/112): Auto-deploy upon successful tagged commit. Thanks to [@thinkingserious](https://github.com/thinkingserious)!
+- [PR #111](https://github.com/sendgrid/ruby-http-client/pull/111): Update CHANGELOG heading format for automation. Thanks to [@thinkingserious](https://github.com/thinkingserious)!
+- [PR #110](https://github.com/sendgrid/ruby-http-client/pull/110): Add Makefile for Librarian automation. Thanks to [@thinkingserious](https://github.com/thinkingserious)!
+
+**Library - Feature**
+- [PR #75](https://github.com/sendgrid/ruby-http-client/pull/75): Add ability to set proxy. Thanks to [@eitoball](https://github.com/eitoball)!
+- [PR #20](https://github.com/sendgrid/ruby-http-client/pull/20): Add option to set http attributes when creating an instance of Client. Thanks to [@jrectenwald](https://github.com/jrectenwald)!
+
+
 [2017-10-30] Version 3.3.0
 --------------------------
 ## Added
