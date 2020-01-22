@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2020-01-22] Version 3.4.2
+--------------------------
+**Library - Fix**
+- [PR #114](https://github.com/sendgrid/ruby-http-client/pull/114): add skip_cleanup flag to fix travis deploy. Thanks to [@thinkingserious](https://github.com/thinkingserious)!
+
+
 [2020-01-22] Version 3.4.1
 --------------------------
 **Library - Docs**
