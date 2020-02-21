@@ -13,35 +13,35 @@ Documentation:
   Enabled: false
 Encoding:
   Enabled: false
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: true
+Layout/ExtraSpacing:
+  Enabled: true
+  AllowForAlignment: false
+  ForceEqualSignAlignment: false
+Layout/SpaceBeforeFirstArg:
+  Enabled: true
 LineLength:
   Enabled: false
 MethodLength:
   Enabled: false
 Metrics/AbcSize:
   Enabled: false
+Metrics/BlockLength:
+  Enabled: false
 Metrics/ModuleLength:
   Enabled: false
-PerceivedComplexity:
-  Enabled: false
-Layout/SpaceBeforeFirstArg:
-  Enabled: true
-Style/ClassAndModuleChildren:
-  Enabled: false
-Layout/EmptyLinesAroundBlockBody:
-  Enabled: true
 Naming/FileName:
   Enabled: true
+PerceivedComplexity:
+  Enabled: false
+Style/ClassAndModuleChildren:
+  Enabled: false
 Style/RescueModifier:
   Enabled: true
 Style/StringLiterals:
   Enabled: true
-Metrics/BlockLength:
-  Enabled: false
 Style/NumericLiterals:
   Enabled: false
-Layout/ExtraSpacing:
-  Enabled: true
-  AllowForAlignment: false
-  ForceEqualSignAlignment: false
 Style/FrozenStringLiteralComment:
   Enabled: false
