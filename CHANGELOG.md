@@ -3,6 +3,29 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2020-03-04] Version 3.5.0
+--------------------------
+**Library - Fix**
+- [PR #118](https://github.com/sendgrid/ruby-http-client/pull/118): JSON-encode array request bodies. Thanks to [@childish-sambino](https://github.com/childish-sambino)!
+- [PR #67](https://github.com/sendgrid/ruby-http-client/pull/67): Split up the build_request function to logical component functions to reduce method complexity. Thanks to [@sony-mathew](https://github.com/sony-mathew)!
+- [PR #115](https://github.com/sendgrid/ruby-http-client/pull/115): update incorrect gem name. Thanks to [@thinkingserious](https://github.com/thinkingserious)!
+
+**Library - Chore**
+- [PR #116](https://github.com/sendgrid/ruby-http-client/pull/116): add Ruby 2.7 to Travis. Thanks to [@childish-sambino](https://github.com/childish-sambino)!
+- [PR #92](https://github.com/sendgrid/ruby-http-client/pull/92): Add CodeCov support to .travis.yml. Thanks to [@jamietanna](https://github.com/jamietanna)!
+
+**Library - Feature**
+- [PR #68](https://github.com/sendgrid/ruby-http-client/pull/68): add ratelimit support. Thanks to [@awj](https://github.com/awj)!
+
+**Library - Test**
+- [PR #98](https://github.com/sendgrid/ruby-http-client/pull/98): Fix rubocop.yml formatting warnings. Thanks to [@RolandBurrows](https://github.com/RolandBurrows)!
+
+**Library - Docs**
+- [PR #100](https://github.com/sendgrid/ruby-http-client/pull/100): adding code review section under contributing.md. Thanks to [@prathamsharma92](https://github.com/prathamsharma92)!
+- [PR #101](https://github.com/sendgrid/ruby-http-client/pull/101): Grammerly checks on *.md files. Thanks to [@prathamsharma92](https://github.com/prathamsharma92)!
+- [PR #84](https://github.com/sendgrid/ruby-http-client/pull/84): Corrected *.md files using Grammarly. Thanks to [@pushkyn](https://github.com/pushkyn)!
+
+
 [2020-02-19] Version 3.4.3
 --------------------------
 **Library - Fix**
