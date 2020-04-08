@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.name = 'ruby_http_client'
   spec.version = '3.5.0'
   spec.authors = ['Elmer Thomas']
-  spec.email = 'dx@sendgrid.com'
+  spec.email = 'help@twilio.com'
   spec.summary = 'A simple REST client'
   spec.description = 'Quickly and easily access any REST or REST-like API.'
   spec.homepage = 'http://github.com/sendgrid/ruby-http-client'
