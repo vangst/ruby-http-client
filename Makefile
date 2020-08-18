@@ -1,7 +1,7 @@
 .PHONY: install test
 
 install:
-	gem install minitest
+	gem install bundler:1.14.6; bundle install
 
 test:
-	rake
+	rake test
