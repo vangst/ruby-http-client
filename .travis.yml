@@ -3,7 +3,6 @@ env:
     - CC_TEST_REPORTER_ID=$CC_TEST_REPORTER_ID
 language: ruby
 rvm:
-  - ruby-head
   - 2.7
   - 2.6
   - 2.5
