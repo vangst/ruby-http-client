@@ -3,7 +3,7 @@
 [![BuildStatus](https://travis-ci.org/sendgrid/ruby-http-client.svg?branch=main)](https://travis-ci.org/sendgrid/ruby-http-client)
 [![Email Notifications Badge](https://dx.sendgrid.com/badge/ruby)](https://dx.sendgrid.com/newsletter/ruby)
 [![Gem Version](https://badge.fury.io/rb/ruby_http_client.svg)](https://badge.fury.io/rb/ruby_http_client)
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sendgrid.svg?style=social&label=Follow)](https://twitter.com/sendgrid)
 [![GitHub contributors](https://img.shields.io/github/contributors/sendgrid/ruby-http-client.svg)](https://github.com/sendgrid/ruby-http-client/graphs/contributors)
 
@@ -108,4 +108,4 @@ If you need help installing or using the library, please check the [Twilio SendG
 If you've instead found a bug in the library or would like new features added, go ahead and open issues or pull requests against this repo!
 
 # License
-[The MIT License (MIT)](LICENSE.md)
+[The MIT License (MIT)](LICENSE)
