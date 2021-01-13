@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2021-01-13] Version 3.5.2
+--------------------------
+**Library - Fix**
+- [PR #124](https://github.com/sendgrid/ruby-http-client/pull/124): Mistake on setup http_options for Net::HTTP object when build http. Thanks to [@hoangtuanictvn](https://github.com/hoangtuanictvn)!
+
+
 [2020-08-19] Version 3.5.1
 --------------------------
 **Library - Chore**
