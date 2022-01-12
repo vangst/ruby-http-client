@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2022-01-12] Version 3.5.3
+--------------------------
+**Library - Chore**
+- [PR #126](https://github.com/sendgrid/ruby-http-client/pull/126): update license year. Thanks to [@JenniferMah](https://github.com/JenniferMah)!
+
+
 [2021-01-13] Version 3.5.2
 --------------------------
 **Library - Fix**
