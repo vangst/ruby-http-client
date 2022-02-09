@@ -3,6 +3,14 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+[2022-02-09] Version 3.5.4
+--------------------------
+**Library - Chore**
+- [PR #129](https://github.com/sendgrid/ruby-http-client/pull/129): upgrade supported language versions. Thanks to [@childish-sambino](https://github.com/childish-sambino)!
+- [PR #128](https://github.com/sendgrid/ruby-http-client/pull/128): add gh release to workflow. Thanks to [@shwetha-manvinkurke](https://github.com/shwetha-manvinkurke)!
+- [PR #127](https://github.com/sendgrid/ruby-http-client/pull/127): migrate to gh actions. Thanks to [@beebzz](https://github.com/beebzz)!
+
+
 [2022-01-12] Version 3.5.3
 --------------------------
 **Library - Chore**
