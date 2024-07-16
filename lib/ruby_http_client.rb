@@ -83,7 +83,7 @@ module SendGrid
 
   # A simple REST client.
   class Client
-    attr_reader :host, :request_headers, :url_path, :request, :http
+    attr_reader :host, :request_headers, :url_path, :request, :http, :proxy_options
     # * *Args*    :
     #   - +host+ -> Base URL for the api. (e.g. https://api.sendgrid.com)
     #   - +request_headers+ -> A hash of the headers you want applied on
